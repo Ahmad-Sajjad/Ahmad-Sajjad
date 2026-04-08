@@ -106,43 +106,6 @@ Full-stack web apps, SaaS products, and scalable backend systems for internation
 
 <br/>
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Ahmad-Sajjad&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=10" width="100%" />
-</div>
-
-<br/>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-<br/>
-
-## 📌 Featured Projects
-
-<div align="center">
-
-<a href="https://github.com/Ahmad-Sajjad/PowerSell">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ahmad-Sajjad&repo=PowerSell&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=ffffff" />
-</a>
-<a href="https://github.com/Ahmad-Sajjad/Marketplace-app">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ahmad-Sajjad&repo=Marketplace-app&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=ffffff" />
-</a>
-<a href="https://github.com/Ahmad-Sajjad/Inventory-Management-System">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ahmad-Sajjad&repo=Inventory-Management-System&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=ffffff" />
-</a>
-<a href="https://github.com/Ahmad-Sajjad/ai-chatbot">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ahmad-Sajjad&repo=ai-chatbot&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=ffffff" />
-</a>
-
-</div>
-
-<br/>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-<br/>
-
 <div align="center">
 
   ### 💭 *"Build what matters. Ship what works. Scale what lasts."*
