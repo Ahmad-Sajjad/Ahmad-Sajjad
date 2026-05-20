@@ -4,14 +4,13 @@
 
   <br/>
   
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=70A5FD&center=true&vCenter=true&random=false&width=600&lines=Full-Stack+Developer+%26+System+Architect;Founder+%26+COO+%40+REIVEX+Technologies;Co-Founder+%40+Binary+Brains;Building+AI-Powered+Products+%26+Platforms;CS+%40+UET+Lahore" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=70A5FD&center=true&vCenter=true&random=false&width=600&lines=Full-Stack+Developer+%26+System+Architect;Founder+%26+COO+%40+REIVEX+Technologies;Building+AI-Powered+Products+%26+Platforms;CS+%40+UET+Lahore" alt="Typing SVG" /></a>
 
   <br/><br/>
 
   <a href="https://linkedin.com/in/ahmad-sajjad-coo"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://instagram.com/ahmadsajjad__"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
   <a href="https://x.com/AhmadSajjad82"><img src="https://img.shields.io/badge/-X-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
-  <a href="https://binarybrains.dev"><img src="https://img.shields.io/badge/-Portfolio-blueviolet?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
   
   <br/>
   
@@ -30,7 +29,6 @@
 ```typescript
 const ahmad = {
     role: "Founder & COO @ REIVEX Technologies",
-    also: "Co-Founder & Backend Lead @ Binary Brains",
     education: "CS @ UET Lahore",
     currentFocus: ["AI Automation", "Scalable SaaS", "System Design"],
     funFact: "I turn caffeine into production-ready code"
@@ -38,7 +36,6 @@ const ahmad = {
 ```
 
 - 🏢 Building production-ready software, AI automation & digital platforms at **REIVEX Technologies**
-- 🧠 Co-Founded **Binary Brains** — a dev agency delivering scalable solutions for global startups
 - 🎓 CS student at **UET Lahore** shipping real products since day one
 - 🔭 Currently exploring **parallel computing** & **system-level programming**
 - 💬 Ask me about **Next.js, Node.js, System Design, AI Integration**
@@ -89,12 +86,6 @@ const ahmad = {
 
 ### 🏗️ REIVEX Technologies
 AI-powered platforms, automation tools, and production-grade software for businesses worldwide.
-
-</td>
-<td width="50%" valign="top">
-
-### 🧠 Binary Brains
-Full-stack web apps, SaaS products, and scalable backend systems for international clients.
 
 </td>
 </tr>
