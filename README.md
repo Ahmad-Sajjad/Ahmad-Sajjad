@@ -1,108 +1,54 @@
 <div align="center">
-  
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1b27,100:0d1117&height=220&section=header&text=Ahmad%20Sajjad&fontSize=75&fontColor=70a5fd&animation=fadeIn&fontAlignY=35&desc=Founder%20%7C%20Builder%20%7C%20Engineer&descSize=22&descColor=bf91f3&descAlignY=55" width="100%" />
 
-  <br/>
-  
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=70A5FD&center=true&vCenter=true&random=false&width=600&lines=Full-Stack+Developer+%26+System+Architect;Founder+%26+COO+%40+REIVEX+Technologies;Building+AI-Powered+Products+%26+Platforms;CS+%40+UET+Lahore" alt="Typing SVG" /></a>
+# Ahmad Sajjad
 
-  <br/><br/>
+Founder at [REIVEX Technologies](https://reivex.io) · Full-Stack Software Engineer · Pakistan
 
-  <a href="https://linkedin.com/in/ahmad-sajjad-coo"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://instagram.com/ahmadsajjad__"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-  <a href="https://x.com/AhmadSajjad82"><img src="https://img.shields.io/badge/-X-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
-  
-  <br/>
-  
-  <img src="https://komarev.com/ghpvc/?username=Ahmad-Sajjad&style=for-the-badge&color=0d1117&labelColor=0d1117&label=PROFILE+VIEWS" />
+<a href="https://linkedin.com/in/ahmad-sajjad-coo"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" /></a>
+<a href="https://x.com/AhmadSajjad82"><img src="https://img.shields.io/badge/X-000000?style=flat&logo=x&logoColor=white" /></a>
+<a href="https://instagram.com/ahmadsajjad__"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white" /></a>
+<a href="https://reivex.io"><img src="https://img.shields.io/badge/reivex.io-1A1B27?style=flat" /></a>
 
 </div>
 
-<br/>
+---
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+## About
 
-<br/>
+I build production-grade software, AI-integrated systems, and digital platforms — primarily through **[REIVEX Technologies](https://reivex.io)**, the company I founded. My work spans full-stack architecture, scalable SaaS, and system design, with a growing pull toward performance engineering and distributed systems.
 
-## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> About Me
+CS at UET Lahore — running REIVEX in parallel.
 
-```typescript
-const ahmad = {
-    role: "Founder & COO @ REIVEX Technologies",
-    education: "CS @ UET Lahore",
-    currentFocus: ["AI Automation", "Scalable SaaS", "System Design"],
-    funFact: "I turn caffeine into production-ready code"
-};
-```
+**Currently:** building AI-integrated platforms at REIVEX and going deeper into systems-level programming and distributed architecture.
 
-- 🏢 Building production-ready software, AI automation & digital platforms at **REIVEX Technologies**
-- 🎓 CS student at **UET Lahore** shipping real products since day one
-- 🔭 Currently exploring **parallel computing** & **system-level programming**
-- 💬 Ask me about **Next.js, Node.js, System Design, AI Integration**
+---
 
-<br/>
+## Stack
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+**Languages**
 
-<br/>
+<img src="https://skillicons.dev/icons?i=ts,js,python,c,cpp,cs,java,kotlin&theme=dark" />
 
-## 🛠️ Tech Arsenal
+**Frontend**
 
-<div align="center">
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,threejs,html,css&theme=dark" />
 
-### Languages
-<p>
-  <img src="https://skillicons.dev/icons?i=ts,js,python,c,kotlin&theme=dark" />
-</p>
+**Backend**
 
-### Frontend
-<p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css&theme=dark" />
-</p>
+<img src="https://skillicons.dev/icons?i=nodejs,nestjs,express&theme=dark" />
 
-### Backend & Database
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,postgresql,mongodb,firebase&theme=dark" />
-</p>
+**Databases**
 
-### DevOps & Tools
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,docker,vercel,vscode,linux&theme=dark" />
-</p>
+<img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,mongodb,redis,firebase&theme=dark" />
 
-</div>
+**Tools & Platforms**
 
-<br/>
+<img src="https://skillicons.dev/icons?i=git,github,docker,vercel,vscode,linux,figma,androidstudio&theme=dark" />
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+---
 
-<br/>
+## Connect
 
-## 🚀 What I'm Building
+Live work at **[reivex.io](https://reivex.io)** · [LinkedIn](https://linkedin.com/in/ahmad-sajjad-coo) · [X](https://x.com/AhmadSajjad82) · [Instagram](https://instagram.com/ahmadsajjad__)
 
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 🏗️ REIVEX Technologies
-AI-powered platforms, automation tools, and production-grade software for businesses worldwide.
-
-</td>
-</tr>
-</table>
-
-<br/>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-<br/>
-
-<div align="center">
-
-  ### 💭 *"Build what matters. Ship what works. Scale what lasts."*
-
-  <br/>
-
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1b27,100:0d1117&height=120&section=footer" width="100%" />
-
-</div>
+Open to technical partnerships, advisory roles, and engineering collaborations.
