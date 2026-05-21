@@ -58,13 +58,13 @@ OpenAI API · LangChain · Hugging Face
 
 ## Connect
 
-Live work at **[reivex.io](https://reivex.io)** & **[Binary Brains](https://binarybrains.dev/)**
-
 <div align="center">
 
 <a href="https://linkedin.com/in/ahmad-sajjad-coo"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" /></a>
 <a href="https://x.com/AhmadSajjad82"><img src="https://img.shields.io/badge/X-000000?style=flat&logo=x&logoColor=white" /></a>
 <a href="https://instagram.com/ahmadsajjad__"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white" /></a>
 <a href="https://reivex.io"><img src="https://img.shields.io/badge/reivex.io-1A1B27?style=flat" /></a>
+
+Open for collaboration.
 
 </div>
