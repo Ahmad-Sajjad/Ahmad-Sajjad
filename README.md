@@ -2,7 +2,9 @@
 
 # Ahmad Sajjad
 
-Full-Stack Software Engineer · Founder @ [REIVEX Technologies](https://reivex.io) · Co-Founder @ Binary Brains
+Full-Stack Software Engineer · Founder @ [REIVEX Technologies](https://reivex.io) · Co-Founder @ [Binary Brains](https://binarybrains.dev/)
+
+3+ years building production software.
 
 </div>
 
@@ -55,6 +57,8 @@ OpenAI API · LangChain · Hugging Face
 ---
 
 ## Connect
+
+Live work at **[reivex.io](https://reivex.io)** & **[Binary Brains](https://binarybrains.dev/)**
 
 <div align="center">
 
