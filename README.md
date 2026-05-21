@@ -15,11 +15,20 @@ Founder at [REIVEX Technologies](https://reivex.io) · Full-Stack Software Engin
 
 ## About
 
-I build production-grade software, AI-integrated systems, and digital platforms — primarily through **[REIVEX Technologies](https://reivex.io)**, the company I founded. My work spans full-stack architecture, scalable SaaS, and system design, with a growing pull toward performance engineering and distributed systems.
+Software engineer building across the full stack — frontend, backend, mobile, AI integration, and systems — and shipping real products into production. I founded **[REIVEX Technologies](https://reivex.io)**, where I build AI-powered platforms and SaaS products for clients worldwide.
 
-CS at UET Lahore — running REIVEX in parallel.
+CS at UET Lahore. Hackathon winner — **CodeRush 2026**.
 
-**Currently:** building AI-integrated platforms at REIVEX and going deeper into systems-level programming and distributed architecture.
+**Currently:** shipping AI-integrated platforms at REIVEX and tinkering across systems, 3D web, and native mobile on the side.
+
+---
+
+## How I Work
+
+- **Ship to learn.** Working software in production teaches faster than perfect code in a branch.
+- **Foundations first.** Architecture earns the right to be clever.
+- **Solve the problem, not the puzzle.** Every layer of the stack is a tool — use whichever one fits.
+- **Performance is a feature.** Fast software earns trust; slow software burns it.
 
 ---
 
