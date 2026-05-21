@@ -6,6 +6,8 @@ Full-Stack Software Engineer · Founder @ [REIVEX Technologies](https://reivex.i
 
 3+ years building production software.
 
+Currently building enterprise platforms and AI tools.
+
 </div>
 
 ---
@@ -48,7 +50,6 @@ const me = {
 
 <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn,opencv&theme=dark" />
 
-OpenAI API · LangChain · Hugging Face
 
 **Tools & Platforms**
 
