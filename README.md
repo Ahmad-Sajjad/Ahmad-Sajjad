@@ -2,7 +2,7 @@
 
 # Ahmad Sajjad
 
-Founder at [REIVEX Technologies](https://reivex.io) · Full-Stack Software Engineer · Pakistan
+Full-Stack Software Engineer · Founder @ [REIVEX Technologies](https://reivex.io) · Co-Founder @ Binary Brains
 
 <a href="https://linkedin.com/in/ahmad-sajjad-coo"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" /></a>
 <a href="https://x.com/AhmadSajjad82"><img src="https://img.shields.io/badge/X-000000?style=flat&logo=x&logoColor=white" /></a>
@@ -15,20 +15,17 @@ Founder at [REIVEX Technologies](https://reivex.io) · Full-Stack Software Engin
 
 ## About
 
-Software engineer building across the full stack — frontend, backend, mobile, AI integration, and systems — and shipping real products into production. I founded **[REIVEX Technologies](https://reivex.io)**, where I build AI-powered platforms and SaaS products for clients worldwide.
-
-CS at UET Lahore. Hackathon winner — **CodeRush 2026**.
-
-**Currently:** shipping AI-integrated platforms at REIVEX and tinkering across systems, 3D web, and native mobile on the side.
-
----
-
-## How I Work
-
-- **Ship to learn.** Working software in production teaches faster than perfect code in a branch.
-- **Foundations first.** Architecture earns the right to be clever.
-- **Solve the problem, not the puzzle.** Every layer of the stack is a tool — use whichever one fits.
-- **Performance is a feature.** Fast software earns trust; slow software burns it.
+```typescript
+const me = {
+    name: "Ahmad Sajjad",
+    role: "Full-Stack Software Engineer",
+    location: "Pakistan",
+    experience: "3+ years",
+    companies: ["Binary Brains (Co-Founder)", "REIVEX Technologies (Founder)"],
+    education: "CS @ UET Lahore",
+    wins: ["CodeRush 2026 Hackathon"]
+};
+```
 
 ---
 
@@ -40,15 +37,21 @@ CS at UET Lahore. Hackathon winner — **CodeRush 2026**.
 
 **Frontend**
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,threejs,html,css&theme=dark" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,threejs,html,css,materialui,framer&theme=dark" />
 
 **Backend**
 
-<img src="https://skillicons.dev/icons?i=nodejs,nestjs,express&theme=dark" />
+<img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,fastapi&theme=dark" />
 
 **Databases**
 
-<img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,mongodb,redis,firebase&theme=dark" />
+<img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,mongodb,redis,firebase,supabase,prisma&theme=dark" />
+
+**AI / ML**
+
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn,opencv&theme=dark" />
+
+OpenAI API · LangChain · Hugging Face
 
 **Tools & Platforms**
 
@@ -59,5 +62,3 @@ CS at UET Lahore. Hackathon winner — **CodeRush 2026**.
 ## Connect
 
 Live work at **[reivex.io](https://reivex.io)** · [LinkedIn](https://linkedin.com/in/ahmad-sajjad-coo) · [X](https://x.com/AhmadSajjad82) · [Instagram](https://instagram.com/ahmadsajjad__)
-
-Open to technical partnerships, advisory roles, and engineering collaborations.
