@@ -4,7 +4,7 @@
 
 Full-Stack Software Engineer · Founder @ [REIVEX Technologies](https://reivex.io) · Co-Founder @ [Binary Brains](https://binarybrains.dev/)
 
-3+ years building production software
+3+ years building production software.
 
 </div>
 
