@@ -63,6 +63,7 @@ const me = {
 <a href="https://x.com/AhmadSajjad82"><img src="https://img.shields.io/badge/X-000000?style=flat&logo=x&logoColor=white" /></a>
 <a href="https://instagram.com/ahmadsajjad__"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white" /></a>
 <a href="https://reivex.io"><img src="https://img.shields.io/badge/reivex.io-1A1B27?style=flat" /></a>
+<a href="https://ahmadsajjad.dev"><img src="https://img.shields.io/badge/ahmadsajjad.dev-1A1B27?style=flat" /></a>
 
 Open to technical partnerships, advisory roles, and engineering collaborations.
 
